@@ -1,12 +1,14 @@
 /* BASIC STYLES HERE */
 
 body {
+  background-color: #e8dada;
   font-family: 'Tilt Neon', cursive;
 }
 
-header {
+header,
+footer {
   background-color: darkred;
-  color: rgb(193, 144, 144);
+  color: #c19090;
 }
 
 .qFloat {
@@ -14,7 +16,7 @@ header {
   top: -1.3em;
   background-color: darkred;
   border-radius: 5px;
-  color: rgb(193, 144, 144);
+  color: #c19090;
   padding-top: 2px;
   padding-left: 8px;
   padding-right: 8px;
